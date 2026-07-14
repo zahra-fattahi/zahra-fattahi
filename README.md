@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=E040FB&background=F8FFF400&width=600&lines=Hi%2C+I'm+Zahra+Fattahi!+%F0%9F%91%8B;In+Love+with+Programming;Passionate+about+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=E040FB&background=F8FFF400&width=600&lines=Hi%2C+I'm+Zahra+Fattahi!+👋;In+Love+with+Programming+💻;Passionate+about+Learning+📚)](https://git.io/typing-svg)
 
 ---
 

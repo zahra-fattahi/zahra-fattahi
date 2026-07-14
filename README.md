@@ -14,9 +14,6 @@
   <a href="mailto:yasminafattahi@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="55" height="55" alt="Gmail"/>
   </a>
-  <a href="https://github.com/zahra-fattahi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55" alt="GitHub"/>
-  </a>
 </p>
 
 ---
@@ -24,7 +21,7 @@
 ## 💻 Tech Stack:
 <p align="left">
   <a href="https://github.com/zahra-fattahi">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma" />
   </a>
 </p>
 

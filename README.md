@@ -2,6 +2,15 @@
 
 ---
 
+## 💻 Tech Stack:
+<p align="left">
+  <a href="https://github.com/zahra-fattahi">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Socials:
 
 <p align="left">
@@ -17,13 +26,6 @@
 </p>
 
 ---
-
-## 💻 Tech Stack:
-<p align="left">
-  <a href="https://github.com/zahra-fattahi">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats:
 

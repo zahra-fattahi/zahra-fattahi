@@ -27,7 +27,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma,xd" />
   </a>
 </p>
----
 
 ## 📊 GitHub Stats:
 

@@ -6,16 +6,18 @@
 
 <p align="left">
   <a href="https://instagram.com/_imywsi">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="55" height="55" alt="Instagram"/>
   </a>
   <a href="https://t.me/imywsi">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="55" height="55" alt="Telegram"/>
   </a>
   <a href="mailto:yasminafattahi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="55" height="55" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/zahra-fattahi">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55" alt="GitHub"/>
   </a>
 </p>
-
 
 ---
 

@@ -8,28 +8,44 @@
 
 ---
 
+## 💫 About Me:
+
+👋 Hi! I'm **Zahra Fattahi**, a passionate web developer and UI/UX designer.
+
+🎨 I specialize in **UI/UX Design** and **Front-End Development**.
+I love creating beautiful and user-friendly digital experiences.
+
+📂 **My Projects:**
+- 🎨 Project 1 → Mobile App UI/UX Design with Figma
+- 💻 Project 2 → Personal Portfolio Website with HTML, CSS, JavaScript
+- 📊 Project 3 → Admin Dashboard Design with Focus on User Experience
+
+🎯 **My Goals:**
+- Become a professional Front-End Developer
+- Combine design and coding to create amazing digital experiences
+- Collaborate on creative and impactful projects
+
+📫 **Contact Me:**
+- 📧 **Email:** yasminafattahi@gmail.com
+- 💬 **Telegram:** [@imywsi](https://t.me/imywsi)
+- 📸 **Instagram:** [@_imywsi](https://instagram.com/_imywsi)
+
+---
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_imywsi)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imywsi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminafattahi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahra-fattahi)
-
----
+--
 
 ## 💻 Tech Stack:
-
-### 🚀 Front-End Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 🐍 Back-End & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -45,22 +61,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-fattahi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahra-fattahi&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-<div align="center">
-  
-### 💖 Thanks for visiting my profile! 💖
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=zahra-fattahi&color=ff69b4&style=flat-square)
-
 </div>

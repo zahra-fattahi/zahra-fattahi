@@ -8,30 +8,6 @@
 
 ---
 
-## 💫 About Me:
-
-👋 Hi! I'm **Zahra Fattahi**, a passionate web developer and UI/UX designer.
-
-🎨 I specialize in **UI/UX Design** and **Front-End Development**.
-I love creating beautiful and user-friendly digital experiences.
-
-📂 **My Projects:**
-- 🎨 Project 1 → Mobile App UI/UX Design with Figma
-- 💻 Project 2 → Personal Portfolio Website with HTML, CSS, JavaScript
-- 📊 Project 3 → Admin Dashboard Design with Focus on User Experience
-
-🎯 **My Goals:**
-- Become a professional Front-End Developer
-- Combine design and coding to create amazing digital experiences
-- Collaborate on creative and impactful projects
-
-📫 **Contact Me:**
-- 📧 **Email:** yasminafattahi@gmail.com
-- 💬 **Telegram:** [@imywsi](https://t.me/imywsi)
-- 📸 **Instagram:** [@_imywsi](https://instagram.com/_imywsi)
-
----
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_imywsi)

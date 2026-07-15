@@ -17,9 +17,6 @@
   <a href="https://instagram.com/_imywsi">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="55" height="55" alt="Instagram"/>
   </a>
-  <a href="https://t.me/imywsi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="55" height="55" alt="Telegram"/>
-  </a>
   <a href="mailto:yasminafattahi@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="55" height="55" alt="Gmail"/>
   </a>

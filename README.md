@@ -31,6 +31,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahra-fattahi&theme=radical&hide_border=false" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-fattahi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</div>

@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahra-fattahi&theme=radical&hide_border=false" width="49%" />
 </div>
 

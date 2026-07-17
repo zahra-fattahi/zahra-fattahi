@@ -5,7 +5,7 @@
 ## 💻 Tech Stack:
 <p align="left">
   <a href="https://github.com/zahra-fattahi">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma,wordpress" />
   </a>
 </p>
 
